@@ -11,15 +11,10 @@ Clinical Trial XYZ is focused on improving survival and reducing hospital length
 
 ## Contents
 
-- [Study Protocol](protocol/index.md)
+- [Study Protocol](protocols/index.md)
+- [Standard Operating Procedures](SOPs/index.md)
 - [Consent Forms](consent-forms/consent-form-v1.pdf)
 - [Reports](reports/interim-report.pdf)
-
-## Repository Structure
-
-- **protocols/**: Contains protocol documents and amendments.
-- **consent-forms/**: Contains participant consent forms.
-- **reports/**: Contains interim, annual, and final reports.
 
 ---
 
