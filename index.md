@@ -5,12 +5,13 @@ Welcome to the official site for **IMPACT**. Here, you can find all publicly ava
 ## Overview
 
 Clinical Trial XYZ is focused on improving survival and reducing hospital length-of-stay in patients with severe infections.  
-Coordinating Investigator: Frans Wiberg
-Contact: frans.wiberg@regionh.dk
+
+- Coordinating Investigator: Frans Wiberg
+- Contact: frans.wiberg@regionh.dk
 
 ## Contents
 
-- [Study Protocol](protocols/protocol-v1.md)
+- [Study Protocol](protocol/index.md)
 - [Consent Forms](consent-forms/consent-form-v1.pdf)
 - [Reports](reports/interim-report.pdf)
 
